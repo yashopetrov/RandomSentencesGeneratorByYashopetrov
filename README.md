@@ -5,5 +5,6 @@
 </p>
 
 <p align="center">
-  This is a generator for random sentences. Just start it and have fun :)
+  This is a generator for random sentences. Just start it and have fun
+  <img alt="Image" width="30px" src="Images/Smiley.png" />
 </p>
