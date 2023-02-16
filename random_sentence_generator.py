@@ -10,7 +10,7 @@ names = ["Maria", "Greta", "Mimi", "Peter", "George", "Ivan", "Nicolas"]
 cities = ["New York", "San Francisco", "Paris", "London", "Kiev", "Moscow", "Tokyo"]
 verbs = ["throws", "eats", "holds", "makes", "sees"]
 nouns = ["bananas", "papers", "disco balls", "money", "cucumbers"]
-adverbs = ["quickly", "gladly", "fast", "slowly", "sadly"]
+adverbs = ["quickly", "gladly", "rapidly", "slowly", "sadly"]
 details = ["on the street", "around the corner", "on the crosswalk", "under a tree", "in the park"]
 
 print(Fore.GREEN + "Hello! Below is the first random generated sentence:")
